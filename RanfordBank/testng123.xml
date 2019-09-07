@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.ranfordbank.master.RoleNg"/>
+      <class name="com.ranfordbank.master.sampleng"/>
+      <class name="com.ranfordbank.master.Pom"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

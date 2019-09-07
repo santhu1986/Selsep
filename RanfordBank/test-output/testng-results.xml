@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25695" started-at="2018-04-07T07:48:44Z" finished-at="2018-04-07T07:49:09Z">
+    <groups>
+    </groups>
+    <test name="on chrome" duration-ms="22047" started-at="2018-04-07T07:48:44Z" finished-at="2018-04-07T07:49:06Z">
+      <class name="com.ranfordbank.master.GridApril">
+        <test-method status="PASS" signature="Gd(java.lang.String)[pri:0, instance:com.ranfordbank.master.GridApril@65dfc5e]" name="Gd" duration-ms="22021" started-at="2018-04-07T13:18:44Z" finished-at="2018-04-07T13:19:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gd -->
+      </class> <!-- com.ranfordbank.master.GridApril -->
+    </test> <!-- on chrome -->
+    <test name="on firefox" duration-ms="25695" started-at="2018-04-07T07:48:44Z" finished-at="2018-04-07T07:49:09Z">
+      <class name="com.ranfordbank.master.GridApril">
+        <test-method status="PASS" signature="Gd(java.lang.String)[pri:0, instance:com.ranfordbank.master.GridApril@4358cfda]" name="Gd" duration-ms="25673" started-at="2018-04-07T13:18:44Z" finished-at="2018-04-07T13:19:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gd -->
+      </class> <!-- com.ranfordbank.master.GridApril -->
+    </test> <!-- on firefox -->
+  </suite> <!-- Suite -->
+</testng-results>
